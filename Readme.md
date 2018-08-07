@@ -1,7 +1,7 @@
 # Личный проект «Пиксель хантер» [![Build status][travis-image]][travis-url]
 
 * Студент: [Альбина Токарчук](https://up.htmlacademy.ru/ecmascript/6/user/167491).
-* Наставник: `Неизвестно`.
+* Наставник: [Альбина Токарчук](https://up.htmlacademy.ru/ecmascript/6/user/167491).
 
 ---
 
