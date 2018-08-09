@@ -1,5 +1,5 @@
-const RIGHT_ARROW = 37;
-const LEFT_ARROW = 39;
+const RIGHT_ARROW = 39;
+const LEFT_ARROW = 37;
 
 const mainContainer = document.querySelector('#main');
 
